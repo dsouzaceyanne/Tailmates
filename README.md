@@ -1,6 +1,6 @@
-# Pawfect Pawtrails
+# Tailmates
 
-Pawfect Pawtrails is a website dedicated to helping pets find their forever homes. Our mission is to promote pet adoption, provide resources for pet care, and support animal welfare organizations.
+Tailmates is a website dedicated to helping pets find their forever homes. Our mission is to promote pet adoption, provide resources for pet care, and support animal welfare organizations.
 
 ## Features
 
